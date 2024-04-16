@@ -1,8 +1,22 @@
 (-) CAPTURED BY MR.ZANE (-)
 
+(-) METHOD 1 (-)
+
 ZANE URL : https://api.facebook.com/method/auth.login
 ZANE DATA : {'adid': '52ac6a54-2504-4477-a2b7-2bf75c492022', 'format': 'json', 'device_id': '91051f2d-e47f-403d-9702-3b6dac6e0328', 'email': '01768212467', 'password': '68212467', 'generate_analytics_claims': '1', 'credentials_type': 'password', 'source': 'login', 'error_detail_type': 'button_with_disabled', 'enroll_misauth': 'false', 'generate_session_cookies': '1', 'generate_machine_id': '1', 'meta_inf_fbmeta': '', 'currently_logged_in_userid': '0', 'fb_api_req_friendly_name': 'authenticate'}
 ZANE HEADER : {'User-Agent': 'Mozilla/5.0 (Linux; Android 8; Armor X7 Pro Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/125.0.6654.47 YaBrowser/22.8.0.223 (lite) Mobile Safari/537.36', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32', 'X-FB-Friendly-Name': 'authenticate', 'X-FB-Connection-Bandwidth': '21435', 'X-FB-Net-HNI': '35793', 'X-FB-SIM-HNI': '37855', 'X-FB-Connection-Type': 'unknown', 'Content-Type': 'application/x-www-form-urlencoded', 'X-FB-HTTP-Engine': 'Liger'}
 ZANE HEADER : {'User-Agent': 'Mozilla/5.0 (Linux; Android 13; RMX2001 Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5125.96 YaBrowser/22.8.0.223 (lite) Mobile Safari/537.36', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32', 'X-FB-Friendly-Name': 'authenticate', 'X-FB-Connection-Bandwidth': '21435', 'X-FB-Net-HNI': '35793', 'X-FB-SIM-HNI': '37855', 'X-FB-Connection-Type': 'unknown', 'Content-Type': 'application/x-www-form-urlencoded', 'X-FB-HTTP-Engine': 'Liger'}
+
+(-) METHOD 2 (-)
+
+ZANE URL : https://api.facebook.com/method/auth.login
+---------------------------------------------
+ZANE DATA : {'adid': '6b88ba4f-ca5b-4544-99b7-3b7a3cf1845d', 'format': 'json', 'device_id': '55089a12-488d-4314-8826-2e0776f82231', 'email': '01794960655', 'password': '94960655', 'generate_analytics_claims': '1', 'credentials_type': 'password', 'source': 'login', 'error_detail_type': 'button_with_disabled', 'enroll_misauth': 'false', 'generate_session_cookies': '1', 'generate_machine_id': '1', 'meta_inf_fbmeta': '', 'currently_logged_in_userid': '0', 'fb_api_req_friendly_name': 'authenticate'}
+---------------------------------------------                               ZANE HEADER : {'User-Agent': 'Mozilla/5.0 (Linux; U; Android 10; en-US; SCV39 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 UCBrowser/13.3.5.1304 Mobile Safari/537.36', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32', 'X-FB-Friendly-Name': 'authenticate', 'X-FB-Connection-Bandwidth': '21435', 'X-FB-Net-HNI': '35793', 'X-FB-SIM-HNI': '37855', 'X-FB-Connection-Type': 'unknown', 'Content-Type': 'application/x-www-form-urlencoded', 'X-FB-HTTP-Engine': 'Liger'}
+ZANE URL : https://api.facebook.com/method/auth.login
+---------------------------------------------
+ZANE DATA : {'adid': 'e794efca-63f1-44fc-a8da-37df8889ff99', 'format': 'json', 'device_id': 'a1398533-5b74-45d4-ba63-1c01d889e7a9', 'email': '01710943672', 'password': '10943672', 'generate_analytics_claims': '1', 'credentials_type': 'password', 'source': 'login', 'error_detail_type': 'button_with_disabled', 'enroll_misauth': 'false', 'generate_session_cookies': '1', 'generate_machine_id': '1', 'meta_inf_fbmeta': '', 'currently_logged_in_userid': '0', 'fb_api_req_friendly_name': 'authenticate'}
+---------------------------------------------
+ZANE HEADER : {'User-Agent': 'Mozilla/5.0 (Linux; U; Android 10; en-US; BISON Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 UCBrowser/13.3.8.1305 Mobile Safari/537.36', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32', 'X-FB-Friendly-Name': 'authenticate', 'X-FB-Connection-Bandwidth': '21435', 'X-FB-Net-HNI': '35793', 'X-FB-SIM-HNI': '37855', 'X-FB-Connection-Type': 'unknown', 'Content-Type': 'application/x-www-form-urlencoded', 'X-FB-HTTP-Engine': 'Liger'}
 
 (-) ENJOY EVERYONE (-)
