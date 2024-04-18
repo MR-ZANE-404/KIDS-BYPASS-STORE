@@ -1,0 +1,11 @@
+(-) CAPTURED BY MR. ZANE
+
+(-) RANDOM METHOD OF DRACO TOOL
+
+ZANE URL : https://p.facebook.com/login/device-based/regular/login/?refsrc
+---------------------------------------------
+ZANE DATA : {'lsd': 'AVrUFR1ktgc', 'jazoest': '2976', 'm_ts': '1713413063', 'li': 'xpsgZkIMN0duy2H3_mDjvCVT', 'try_number': '0', 'unrecognized_tries': '0', 'email': '01738142884', 'pass': '38142884', 'login': 'Log In'}
+---------------------------------------------
+ZANE HEADER : {'authority': 'p.facebook.com', 'viewport-width': '980', 'method': 'POST', 'path': '/?tbua=1', 'scheme': 'https', 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8', 'cache-control': 'max-age=0', 'content-type': 'application/x-www-form-urlencoded', 'origin': 'https://p.facebook.com', 'referer': 'https://p.facebook.com/', 'sec-ch-ua': '"Not-A.Brand";v="99", "Chromium";v="124"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform': '"Android"', 'sec-fetch-dest': 'document', 'sec-fetch-mode': 'navigate', 'sec-fetch-site': 'same-origin', 'sec-fetch-user': '?1', 'upgrade-insecure-requests': '1', 'sec-ch-prefers-color-scheme': 'light', 'user-agent': 'Mozilla/5.0 (Symbian/3; Series60/6.6 Nokia7995/110.021.0028; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/3.3.1.1 Mobile Safari/535.1'} 
+
+(-) ENJOY EVERYONE
